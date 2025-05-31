@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/CNS/Bao_cao_Tuan5_Tran_Le_Minh_Duc_AI/Titanic/mlruns/0/d2dd19d715404a31ba0d55263b18497e/artifacts
+end_time: 1746753146908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2dd19d715404a31ba0d55263b18497e
+run_name: Titanic XGB
+run_uuid: d2dd19d715404a31ba0d55263b18497e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746753116625
+status: 3
+tags: []
+user_id: HOME
